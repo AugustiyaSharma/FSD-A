@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  #top {
+    background-color: black;
+    color: antiquewhite;
+    border: 10px solid green;
+  }
+  h1 {
+    background-color: blueviolet;
+    color: chartreuse;
+  }
+  a {
+    text-decoration: none;
+  }
